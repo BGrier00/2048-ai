@@ -1,9 +1,10 @@
 """
 Python 2048 Game : Basic Console Based User Interface For Game Play
 
-Originally written by Phil Rodgers, University of Strathclyde
+Game template written by Phil Rodgers, University of Strathclyde
 
-AI written by 
+AI written by Bryan Grier
+
 """
 
 from py2048_classes import Board, Tile
